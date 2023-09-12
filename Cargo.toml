@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "teak-server",
+    "teak-data",
+    "teak-db",
+    "cmd/*"
+]
